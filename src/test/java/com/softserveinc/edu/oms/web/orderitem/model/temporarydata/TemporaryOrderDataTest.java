@@ -1,7 +1,7 @@
-ο»Ώ//
+//
 // TemporaryOrderDataTest
 //
-// 12 Π²ΠµΡ€. 2011
+// 12 βεπ. 2011
 //
 package com.softserveinc.edu.oms.web.orderitem.model.temporarydata;
 

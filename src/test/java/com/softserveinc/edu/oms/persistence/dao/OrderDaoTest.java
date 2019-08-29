@@ -1,4 +1,4 @@
-﻿/*
+/*
  * OrderDaoTest.java
  *
  * Version 1.0

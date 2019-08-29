@@ -1,4 +1,4 @@
-﻿package com.softserveinc.edu.oms.persistence.entities;
+package com.softserveinc.edu.oms.persistence.entities;
 
 import org.junit.Test;
 

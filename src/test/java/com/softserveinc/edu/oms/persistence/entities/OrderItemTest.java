@@ -1,7 +1,7 @@
-п»ї/**
+/**
  * OrderItemTest
  *
- * 11 Р»РёРї. 2011
+ * 11 лип. 2011
  */
 package com.softserveinc.edu.oms.persistence.entities;
 

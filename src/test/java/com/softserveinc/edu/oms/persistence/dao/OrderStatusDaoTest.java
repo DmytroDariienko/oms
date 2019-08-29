@@ -1,4 +1,4 @@
-﻿package com.softserveinc.edu.oms.persistence.dao;
+package com.softserveinc.edu.oms.persistence.dao;
 
 import org.junit.After;
 import org.junit.Assert;
