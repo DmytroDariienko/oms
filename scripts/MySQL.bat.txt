@@ -1,4 +1,4 @@
 rem Goto to C:\Program Files\MySQL\MySQL Server 5.7\bin
-rem mysql -p -u root ddari < MySQL.sql
+rem mysql -p -u VzmxU16K4uRDAim4JuSY ddari < MySQL.sql
 
-mysql -p -u root ddari< C:\Users\profile\workspace\oms\scripts\MySQL.sql
+mysql -p -u VzmxU16K4uRDAim4JuSY ddari < C:\Users\profile\workspace\oms\scripts\MySQL.sql
